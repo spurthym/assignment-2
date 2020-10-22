@@ -1,0 +1,56 @@
+body{
+    background-color:#FFDAB9;
+
+
+}
+#main{
+text-align: center;
+position: sticky;
+top:0;
+background-color:#EEE8AA;
+width: 100%;
+z-index: 1;
+
+
+}
+
+#content{
+    margin-top: 10%;
+   margin-left:15%;   
+    margin-right:15%; 
+    margin-bottom:15%;   
+    background-color: #FFEFD5 ;
+    padding: 10px;
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    font-size: 18px;
+    box-shadow: 10px 10px grey;
+
+}
+
+table {
+  border: 1px solid black;
+  width: 50%;
+
+}
+th, td {
+  border: 1px solid black;
+  }
+
+.resize {
+    padding-left:40%;
+      
+    width: auto;
+    height: 200px;    
+    top: 10px;
+    right: 50%;
+
+
+}
+#contact{
+
+    width: 100%;
+    background-color: red;
+}
+
+
